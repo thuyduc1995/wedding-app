@@ -1,0 +1,18 @@
+.main {
+  z-index: 2;
+  position: relative;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  flex-flow: row wrap;
+}
+.back-to-top {
+  position: fixed;
+  width: 40px;
+  height: 40px;
+  background-color: gray;
+  right: 0px;
+  bottom: 60px;
+  opacity: 0.1;
+  text-align: center;
+}
