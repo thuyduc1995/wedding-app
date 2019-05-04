@@ -17,11 +17,17 @@ export default class Home extends Component {
     })
   };
 
+  handleClick = () => {
+    this.setState(() => {
+      return { isShowMenu: false }
+    })
+  };
+
   render() {
     const menuIcon = this.state.isShowMenu ? 'fa-times' : 'fa-bars';
     return (
       <Element className="home">
-        <Sidebar show={this.state.isShowMenu}/>
+        <Sidebar clickEvent={this.handleClick} show={this.state.isShowMenu}/>
         <i
           onClick={this.handleShowMenu}
           className={`home-menu--button fa ${menuIcon}`} />

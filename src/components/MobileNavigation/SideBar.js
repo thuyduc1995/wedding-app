@@ -11,10 +11,18 @@ export default class SideBar extends Component {
         <div className='home-sidebar-content'>
           {
             MENU_LIST.map((item) => {
-              return (<Link key={item.key} to={item.key} smooth={true}>{item.display}</Link>)
+              return (
+                <Link
+                  onClick={this.props.clickEvent}
+                  key={item.key}
+                  to={item.key}
+                  smooth={true}>{item.display}
+                </Link>
+              )
             })
           }
         </div>
+        <div className='blank-space' onClick={this.props.clickEvent} />
       </div>
     )
   }
