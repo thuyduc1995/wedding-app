@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/gallery2.f089b5c0.png"
   },
   {
-    "revision": "fd3cbec568394f814d27",
-    "url": "/wedding-app/static/css/main.f7bf13e2.chunk.css"
+    "revision": "d2108992e427751e64c1",
+    "url": "/wedding-app/static/css/main.f6db4013.chunk.css"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/wedding-app/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "ef17fb22fb0668a5c409",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/gallery1.1dfc4349.png"
   },
   {
-    "revision": "fd3cbec568394f814d27",
-    "url": "/wedding-app/static/js/main.fd3cbec5.chunk.js"
+    "revision": "d2108992e427751e64c1",
+    "url": "/wedding-app/static/js/main.d2108992.chunk.js"
   },
   {
     "revision": "13839b417e25eed85a57aec240a52959",
@@ -48,27 +48,27 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/background.620f8ea9.png"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/wedding-app/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/wedding-app/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/wedding-app/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/wedding-app/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/wedding-app/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "ef17fb22fb0668a5c409",
     "url": "/wedding-app/static/css/1.91d89460.chunk.css"
   },
   {
-    "revision": "b2f3c4ad7b01860ee004dc9b6189456c",
+    "revision": "c92e62753afff140c111f6d601b2acec",
     "url": "/wedding-app/index.html"
   }
 ];
