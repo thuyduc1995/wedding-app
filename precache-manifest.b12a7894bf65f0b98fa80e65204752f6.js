@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/gallery2.f089b5c0.png"
   },
   {
-    "revision": "a04be6a4b6d5b1f4eb73",
-    "url": "/wedding-app/static/css/main.3a851898.chunk.css"
+    "revision": "78f2fd574329c9dd5f7d",
+    "url": "/wedding-app/static/css/main.5fc65d32.chunk.css"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/wedding-app/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "20d94802aaf409f9055f",
-    "url": "/wedding-app/static/js/1.20d94802.chunk.js"
+    "revision": "ded1ecd1b66bf0bbfe7e",
+    "url": "/wedding-app/static/js/1.ded1ecd1.chunk.js"
   },
   {
     "revision": "ce7d8f941001485a6ee4",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/gallery1.1dfc4349.png"
   },
   {
-    "revision": "a04be6a4b6d5b1f4eb73",
-    "url": "/wedding-app/static/js/main.a04be6a4.chunk.js"
+    "revision": "78f2fd574329c9dd5f7d",
+    "url": "/wedding-app/static/js/main.78f2fd57.chunk.js"
   },
   {
     "revision": "13839b417e25eed85a57aec240a52959",
@@ -46,6 +46,10 @@ self.__precacheManifest = [
   {
     "revision": "620f8ea992391ac5a3d406305379b2a2",
     "url": "/wedding-app/static/media/background.620f8ea9.png"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -60,15 +64,11 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "ded1ecd1b66bf0bbfe7e",
+    "url": "/wedding-app/static/css/1.4dc953e7.chunk.css"
   },
   {
-    "revision": "20d94802aaf409f9055f",
-    "url": "/wedding-app/static/css/1.97d14ff4.chunk.css"
-  },
-  {
-    "revision": "ee4e1be96bde2a758af220d1ac6ea3e8",
+    "revision": "08c3a3b49eb86ab126cd5f51b199d7bd",
     "url": "/wedding-app/index.html"
   }
 ];
