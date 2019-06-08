@@ -1,0 +1,74 @@
+self.__precacheManifest = [
+  {
+    "revision": "f089b5c09bd0125be2198d1db33b8cda",
+    "url": "/wedding-app/static/media/gallery2.f089b5c0.png"
+  },
+  {
+    "revision": "a04be6a4b6d5b1f4eb73",
+    "url": "/wedding-app/static/css/main.3a851898.chunk.css"
+  },
+  {
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/wedding-app/static/media/fontawesome-webfont.912ec66d.svg"
+  },
+  {
+    "revision": "20d94802aaf409f9055f",
+    "url": "/wedding-app/static/js/1.20d94802.chunk.js"
+  },
+  {
+    "revision": "ce7d8f941001485a6ee4",
+    "url": "/wedding-app/static/js/runtime~main.ce7d8f94.js"
+  },
+  {
+    "revision": "c6cfa2817ba609fd307d5f503babb75b",
+    "url": "/wedding-app/static/media/middle.c6cfa281.png"
+  },
+  {
+    "revision": "803be7c69b37349b1a8d7704982f722f",
+    "url": "/wedding-app/static/media/mini4.803be7c6.png"
+  },
+  {
+    "revision": "4285b2a4a7e03cb39f4867aa922067e1",
+    "url": "/wedding-app/static/media/mini3.4285b2a4.png"
+  },
+  {
+    "revision": "1dfc43495199222e1aecf922f1300900",
+    "url": "/wedding-app/static/media/gallery1.1dfc4349.png"
+  },
+  {
+    "revision": "a04be6a4b6d5b1f4eb73",
+    "url": "/wedding-app/static/js/main.a04be6a4.chunk.js"
+  },
+  {
+    "revision": "13839b417e25eed85a57aec240a52959",
+    "url": "/wedding-app/static/media/gallery4.13839b41.png"
+  },
+  {
+    "revision": "620f8ea992391ac5a3d406305379b2a2",
+    "url": "/wedding-app/static/media/background.620f8ea9.png"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/wedding-app/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/wedding-app/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/wedding-app/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "20d94802aaf409f9055f",
+    "url": "/wedding-app/static/css/1.97d14ff4.chunk.css"
+  },
+  {
+    "revision": "ee4e1be96bde2a758af220d1ac6ea3e8",
+    "url": "/wedding-app/index.html"
+  }
+];
