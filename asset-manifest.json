@@ -1,7 +1,7 @@
 {
-  "main.css": "/wedding-app/static/css/main.5843c906.chunk.css",
-  "main.js": "/wedding-app/static/js/main.49958a72.chunk.js",
-  "main.js.map": "/wedding-app/static/js/main.49958a72.chunk.js.map",
+  "main.css": "/wedding-app/static/css/main.52f839ea.chunk.css",
+  "main.js": "/wedding-app/static/js/main.2993bafe.chunk.js",
+  "main.js.map": "/wedding-app/static/js/main.2993bafe.chunk.js.map",
   "static/css/1.91d89460.chunk.css": "/wedding-app/static/css/1.91d89460.chunk.css",
   "static/js/1.ef17fb22.chunk.js": "/wedding-app/static/js/1.ef17fb22.chunk.js",
   "static/js/1.ef17fb22.chunk.js.map": "/wedding-app/static/js/1.ef17fb22.chunk.js.map",
@@ -13,11 +13,11 @@
   "static/media/gallery2.png": "/wedding-app/static/media/gallery2.f089b5c0.png",
   "static/media/gallery4.png": "/wedding-app/static/media/gallery4.13839b41.png",
   "static/media/home.scss": "/wedding-app/static/media/background.620f8ea9.png",
-  "static/media/font-awesome.min.css": "/wedding-app/static/media/fontawesome-webfont.912ec66d.svg",
+  "static/media/font-awesome.min.css": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/mini4.png": "/wedding-app/static/media/mini4.803be7c6.png",
-  "static/css/main.5843c906.chunk.css.map": "/wedding-app/static/css/main.5843c906.chunk.css.map",
+  "static/css/main.52f839ea.chunk.css.map": "/wedding-app/static/css/main.52f839ea.chunk.css.map",
   "static/css/1.91d89460.chunk.css.map": "/wedding-app/static/css/1.91d89460.chunk.css.map",
   "index.html": "/wedding-app/index.html",
-  "precache-manifest.85b51d804c3e1fdcd81841a35cb8d0f5.js": "/wedding-app/precache-manifest.85b51d804c3e1fdcd81841a35cb8d0f5.js",
+  "precache-manifest.9a18713d41baf4df382c3863a15d144c.js": "/wedding-app/precache-manifest.9a18713d41baf4df382c3863a15d144c.js",
   "service-worker.js": "/wedding-app/service-worker.js"
 }

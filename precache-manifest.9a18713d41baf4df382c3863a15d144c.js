@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/gallery2.f089b5c0.png"
   },
   {
-    "revision": "49958a727c7a757b039e",
-    "url": "/wedding-app/static/css/main.5843c906.chunk.css"
+    "revision": "2993bafe7afa74672637",
+    "url": "/wedding-app/static/css/main.52f839ea.chunk.css"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "/wedding-app/static/media/fontawesome-webfont.912ec66d.svg"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "ef17fb22fb0668a5c409",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/gallery1.1dfc4349.png"
   },
   {
-    "revision": "49958a727c7a757b039e",
-    "url": "/wedding-app/static/js/main.49958a72.chunk.js"
+    "revision": "2993bafe7afa74672637",
+    "url": "/wedding-app/static/js/main.2993bafe.chunk.js"
   },
   {
     "revision": "13839b417e25eed85a57aec240a52959",
@@ -52,10 +52,6 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/wedding-app/static/media/fontawesome-webfont.fee66e71.woff"
-  },
-  {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/wedding-app/static/media/fontawesome-webfont.af7ae505.woff2"
   },
@@ -64,11 +60,15 @@ self.__precacheManifest = [
     "url": "/wedding-app/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "/wedding-app/static/media/fontawesome-webfont.912ec66d.svg"
+  },
+  {
     "revision": "ef17fb22fb0668a5c409",
     "url": "/wedding-app/static/css/1.91d89460.chunk.css"
   },
   {
-    "revision": "2da99d89d3afb8ad656e5a44f2eab922",
+    "revision": "7d25151e91bda3d7657e8a54de60ad8a",
     "url": "/wedding-app/index.html"
   }
 ];
